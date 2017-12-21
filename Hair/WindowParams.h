@@ -1,0 +1,4 @@
+#ifndef WINDOWPARAMS_H
+#define WINDOWPARAMS_H
+
+#endif // WINDOWPARAMS_H

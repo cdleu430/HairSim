@@ -1,4 +1,0 @@
-#ifndef SCENEOBJECT_H
-#define SCENEOBJECT_H
-
-#endif // SCENEOBJECT_H

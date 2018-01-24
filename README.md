@@ -2,6 +2,9 @@
 
 This is a simple hair simulation, done using mass-springs and RK4 integration.
 
+Simply the run the program and eveything should either be intuitive or explained by the UI.
+
+
 Things you can change that the UI doesn't include:
 
   Amount follow hairs are spread out from the guides:

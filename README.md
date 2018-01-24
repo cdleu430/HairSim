@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Leu Hair Simulation
 
 This is a simple hair simulation, done using mass-springs and RK4 integration.
@@ -12,6 +11,3 @@ Things you can change that the UI doesn't include:
 
   How far off the scalp hairs rest:
     In GuideHair.cpp -> updateJoints scalp penetration section, change .05 to something else
-=======
-# ase-cgitech201718-cdleu430
->>>>>>> 77d5517397eb2c5e9ae965dccfce49eeaf0cfb81

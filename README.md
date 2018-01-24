@@ -3,6 +3,7 @@
 This is a simple hair simulation, done using mass-springs and RK4 integration.
 
 Things you can change that the UI doesn't include:
+
   Amount follow hairs are spread out from the guides:
     In NGLScene.cpp -> initialGL, change the HI and LO variables in the create hair section, they should be 2 values that are slightly more or less than 1
 
